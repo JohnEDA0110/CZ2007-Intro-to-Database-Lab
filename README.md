@@ -1,2 +1,2 @@
 # CZ2007-Intro-to-Database-Lab
-Labs 3 and 5 for CZ2007. Only SQL code is here as the database was provided by NTU.
+Lab work for CZ2007. Only SQL code is here as the database was provided by NTU.
